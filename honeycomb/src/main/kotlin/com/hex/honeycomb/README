@@ -1,0 +1,11 @@
+
+HONEYCOMB BLOCKCHAIN PAYROLL SYSTEM
+@payhoneycomb https://payhoneycomb.com
+
+1. Login/Signup
+2. check login, if admin -> Company dashboard
+                if not admin -> User dashboard
+
+3. Company dash shows list of employee data/settings, can edit source bank accounts. Blockchain data
+4. User dash shows employee's data/settings, can edit those settings if needed.
+    Displays current pay, blockchain data,  conversion rates (example: USD -> Bitcoin / EU -> USD / etc)
