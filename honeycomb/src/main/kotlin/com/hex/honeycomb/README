@@ -9,3 +9,15 @@ HONEYCOMB BLOCKCHAIN PAYROLL SYSTEM
 3. Company dash shows list of employee data/settings, can edit source bank accounts. Blockchain data
 4. User dash shows employee's data/settings, can edit those settings if needed.
     Displays current pay, blockchain data,  conversion rates (example: USD -> Bitcoin / EU -> USD / etc)
+
+5. Backend ->
+addBankAccount
+convertFunds
+setupPayFrequency
+updateCompany
+updateUser
+updateBankAccount
+createWallet
+updateWallet
+addTransaction
+scheduleTransactions
