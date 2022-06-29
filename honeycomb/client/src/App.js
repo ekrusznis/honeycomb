@@ -1,15 +1,17 @@
-import './App.css';
-import navbar from './components/navbar'
+import './App.css'
+import Home from './components/home/Home'
+import About from './components/about/About'
+import Footer from './components/footer/Footer'
+import TopButton from './components/topButton/TopButton'
 
 function App() {
   return (
-      <navbar />
-
-//    <div className="App">
-//      <header className="App-header">
-//      </header>
-//    </div>
-  );
+    <div className="App">
+      <Home />
+      <About />
+      <Footer />
+      <TopButton />
+    </div>
+  )
 }
-
 export default App;
