@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="honeycomb.honeycomb.main~1" target="17" />
-      <module name="honeycomb.honeycomb.test~1" target="17" />
+      <module name="honeycomb.honeycomb.main" target="17" />
+      <module name="honeycomb.honeycomb.test" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
